@@ -1,0 +1,42 @@
+/* CSS for raw elements */
+
+body {
+  overflow-y: scroll; /* Always show a vertical scrollbar */
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+p {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: var(--white);
+  font-size: 2rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  border: none;
+  display: block;
+  border: none;
+  max-width: 100%;
+  height: auto; /* Ensures images maintain aspect ratio */
+}

@@ -1,0 +1,19 @@
+/* CONFIG VARIABLES */
+
+/* VARIABLES */
+:root {
+  /* COLOURS */
+  --color-primary: rgb(42, 56, 65);
+  --color-black: rgb(32, 32, 36);
+  --color-trans: rgb(255, 255, 255, 0.6);
+  --color-white: rgb(255, 255, 255);
+
+  /* NUMBERS */
+  --font-size-base: 16px;
+  --line-height-base: 1.5;
+  --margin-base: 10px;
+  --padding-base: 20px;
+
+  /* FONTS */
+  --standard-text: "Lato", sans-serif;
+}
